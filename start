@@ -1,1 +1,1 @@
-sudo pacman -S base base-devel acpi_call tlp i3 termite compton rofi feh polkit-gnome xss-lock lxappearance xorg xorg-xinit gnome-themes-standard thunar intel-ucode
+sudo pacman -S base base-devel acpi_call-dkms tlp i3 termite picom-git dunst rofi feh polkit-gnome xss-lock lxappearance xorg xorg-xinit gnome-themes-standard thunar intel-ucode
