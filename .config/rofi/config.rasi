@@ -1,0 +1,12 @@
+configuration {
+	modi: "drun,run";
+	font: "Sans 13";
+	show-icons: true;
+	terminal: "termite";
+	drun-show-actions: true;
+	theme: "/usr/share/rofi/themes/Pop-Dark.rasi";
+}
+
+element-icon {
+    size: 1.8ch;
+}
